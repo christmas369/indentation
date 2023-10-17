@@ -1,0 +1,7 @@
+.itog__list {
+    margin-bottom: 30px;
+}
+
+.itog__item:not(:last-child) {
+    margin-bottom: 10px;
+}

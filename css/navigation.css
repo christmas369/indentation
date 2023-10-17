@@ -1,0 +1,16 @@
+.nav__list {
+    padding-left: 21.45px;
+    margin: 0;
+}
+
+.nav__item::marker {
+    color: #02535F;
+}
+
+.nav__link {
+    color: #02535F;
+}
+
+.nav__item:not(:last-child) {
+    margin-bottom: 10px;
+}

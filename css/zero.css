@@ -1,0 +1,7 @@
+.zero__img {
+    display: block;
+}
+
+.zero__figure:not(:last-child) {
+    margin-bottom: 30px;
+}

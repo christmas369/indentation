@@ -1,0 +1,13 @@
+.last__figure {
+    margin-bottom: 30px;
+}
+
+.last__figure-inset {
+    border: 1px solid #000;
+}
+
+.last__text-inset {
+    padding: 15px 30px;
+    color: #5E5E5E;
+    text-align: left;
+}
