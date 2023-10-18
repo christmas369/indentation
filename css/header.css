@@ -1,0 +1,10 @@
+.header {
+    padding-top: 60px;
+    padding-bottom: 15px;
+}
+
+.header__title {
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 900;
+}
