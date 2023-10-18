@@ -1,16 +1,12 @@
-.margin__figure:not(:last-child) {
-    margin-bottom: 30px;
-}
-
 .margin__img_left {
     margin-right: 30px;
 }
 
 .margin__caption {
     display: inline-block;
-    vertical-align: top;
-    
+    vertical-align: top;   
 }
+
 .margin__caption_left {
     margin-right: 40px;
     max-width: calc(100% - 606px);

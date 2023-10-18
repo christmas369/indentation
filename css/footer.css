@@ -1,7 +1,7 @@
-.itog__list {
+.footer__list {
     margin-bottom: 30px;
 }
 
-.itog__item:not(:last-child) {
+.footer__item:not(:last-child) {
     margin-bottom: 10px;
 }

@@ -109,6 +109,10 @@ iframe {
     margin-bottom: 30px;
 }
 
+.figure:not(:last-child) {
+    margin-bottom: 30px;
+}
+
 .img {
     display: block;
     margin: 0 auto;
